@@ -1,1 +1,2 @@
-// console.log('testing metaboxes')
+import 'slick-carousel'
+import '../../../includes/shortcodes/slider/slider.js'
